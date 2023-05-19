@@ -3671,6 +3671,7 @@
     "@types/node" "*"
 
 "@types/selenium-webdriver4@npm:@types/selenium-webdriver@4.1.14", "@types/selenium-webdriver@^4.0.18":
+  name "@types/selenium-webdriver4"
   version "4.1.14"
   resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-4.1.14.tgz#4ce2839c35f751f5d497ae4e25989734a16dd555"
   integrity sha512-3vy3tbKfMWLhKMoZSnFAMZRf4Z1e8/zgpxIqXG7G2Coc8Rvf1QBvgpJDxxdnTuDFL6ZfymiGUHd8itwTmuEpeA==
@@ -16091,9 +16092,9 @@ vite@4.3.1:
     fsevents "~2.3.2"
 
 vm2@^3.9.17:
-  version "3.9.17"
-  resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.9.17.tgz#251b165ff8a0e034942b5181057305e39570aeab"
-  integrity sha512-AqwtCnZ/ERcX+AVj9vUsphY56YANXxRuqMb7GsDtAr0m0PcQX3u0Aj3KWiXM0YAHy7i6JEeHrwOnwXbGYgRpAw==
+  version "3.9.19"
+  resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.9.19.tgz#be1e1d7a106122c6c492b4d51c2e8b93d3ed6a4a"
+  integrity sha512-J637XF0DHDMV57R6JyVsTak7nIL8gy5KH4r1HiwWLf/4GBbb5MKL5y7LpmF4A8E2nR6XmzpmMFQ7V7ppPTmUQg==
   dependencies:
     acorn "^8.7.0"
     acorn-walk "^8.2.0"
